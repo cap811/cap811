@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hey, my name is Maily
+🔭 I’m currently working on @universytet
+🌱 I’m currently learning Python, Ruby on Rails.
