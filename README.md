@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 Hey, my name is Maily
 - 🔭 I’m currently working on @universytet
 - 🌱 I’m currently learning Gо, Ruby on Rails.
+- 💬 Ask me about Django, Flask
 - 📫 How to reach me: via GitHub
